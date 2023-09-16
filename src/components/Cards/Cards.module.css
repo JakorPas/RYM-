@@ -1,0 +1,7 @@
+ .container{
+    align-content: space-around;
+    display: flex;
+    margin: 40px; 
+    flex-wrap: wrap;
+    justify-content: center;
+} 

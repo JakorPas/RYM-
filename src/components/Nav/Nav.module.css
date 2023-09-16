@@ -1,0 +1,16 @@
+.nav {background-color: transparent; 
+    align-items:center;  
+    display: flex;
+    justify-content: space-around;
+}
+
+.random{
+    border: 1px solid rgb(101, 255, 71);
+    background-color: green;
+    border-radius: 10px;
+    height: 30px;
+    width: 180px;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+}

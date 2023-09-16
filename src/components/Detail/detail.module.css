@@ -1,0 +1,35 @@
+.info{
+    color: green;
+    display: table-column;
+    text-align: left;
+    font-size: 30px;
+}
+
+.container{
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 450px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.95);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.image{
+    border-radius: 15px;
+    border: 2px solid rgb(101, 255, 71);
+}
+
+.button{
+    font-size: large;
+    border: 1px solid rgb(101, 255, 71);
+    background-color: green;
+    border-radius: 10px;
+    height: 35px;
+    width: 150px;
+    cursor: pointer;
+    font-weight: bold;
+}
